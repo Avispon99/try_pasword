@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Clave de 3 intentos", "6. Clave de 3 intentos\6. Clave de 3 intentos.csproj", "{B4F47F1A-1EB6-443E-81BC-884A78DF3742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F47F1A-1EB6-443E-81BC-884A78DF3742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F47F1A-1EB6-443E-81BC-884A78DF3742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F47F1A-1EB6-443E-81BC-884A78DF3742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F47F1A-1EB6-443E-81BC-884A78DF3742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6004712C-764D-4062-8672-AAD29B43AE66}
+	EndGlobalSection
+EndGlobal
